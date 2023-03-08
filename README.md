@@ -10,13 +10,13 @@
 
 - 🌱 Right now im learning **Java and Flutter**
 
-- 👯 I’m looking to collaborate on **Any proyect i can help**
+- 👯 I’m looking to collaborate on **any proyect i can help**
 
-- 💬 Ask me about **Anything related to tech or anime**
+- 💬 Ask me about **anything related to tech or anime**
 
 - 📫 How to reach me **sponkurtus@hotmail.com**
 
-- ⚡ Fun fact **I play volley ball**
+- ⚡ Fun fact **i play volley ball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

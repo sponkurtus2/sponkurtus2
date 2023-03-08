@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sponkurtus2&label=Profile%20views&color=e2cfea&style=plastic" alt="sponkurtus2" /> </p>
 
-- 🔭 I’m currently working on **My own proyects at school**
+- 🔭 I’m currently working on **my own proyects at school**
 
-- 🌱 I’m currently learning **Java and Flutter**
+- 🌱 Right now im learning **Java and Flutter**
 
 - 👯 I’m looking to collaborate on **Any proyect i can help**
 

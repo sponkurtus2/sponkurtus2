@@ -20,7 +20,7 @@
 - 🟩 Big Data
 - 🟩 Web development
 - 🟩 Python
-- 🟩 Api usage- 
+- 🟩 Api usage
 
 ### - Hobbies : 
 - 🎵 Listening to Music

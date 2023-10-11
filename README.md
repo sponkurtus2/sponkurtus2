@@ -111,10 +111,10 @@ If you would like to ask me or tell me something, go on and hit me up ;).
 
 
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sponkurtus2&show_icons=true&locale=en&layout=compact" alt="sponkurtus2" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sponkurtus2&show_icons=true&theme=onedark&locale=en" alt="sponkurtus2" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sponkurtus2&" alt="sponkurtus2" /></p>
 
 *************

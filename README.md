@@ -56,7 +56,7 @@
 <p>If you would like to ask me or tell me something, go on and hit me up ;).</p>
 
 <p align="left">
-<a href="https://twitter.com/@carlitosreyes_rfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@carlitosreyes_rfa" height="30" width="40" /></a>
+<a href="https://twitter.com/CarlitosReyes_R" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@carlitosreyes_rfa" height="30" width="40" /></a>
 <a href="https://www.facebook.com/drake.junior.336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carlos reyes" height="30" width="40" /></a>
 <a href="https://instagram.com/carlitos_04r.rb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlitos_04r.rb" height="30" width="40" /></a>
 </p>

@@ -82,9 +82,17 @@ If you would like to ask me or tell me something, go on and hit me up ;).
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/steam.svg" />
 </a>
 
+</br>
+</br>
+
+
 <a href="https://twitter.com/CarlitosReyes_R">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" />
 </a>
+
+</br>
+</br>
+
 
 <a href="mailto:ashutosh.saxena.2001@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />

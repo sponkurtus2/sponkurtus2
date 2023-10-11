@@ -115,6 +115,5 @@ If you would like to ask me or tell me something, go on and hit me up ;).
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sponkurtus2&show_icons=true&theme=onedark&locale=en" alt="sponkurtus2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sponkurtus2&" alt="sponkurtus2" /></p>
 
 *************

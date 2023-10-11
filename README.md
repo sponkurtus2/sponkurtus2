@@ -53,7 +53,7 @@
 
 <img hight="280" width="450" align="right" alt="GIF" src="https://media.tenor.com/MyPnF_oV1YAAAAAi/chika-thumbs-up.gif">
 
-If you would like to ask me or tell me something, go on and hit me up ;).
+<h2>If you would like to ask me or tell me something, go on and hit me up ;).</h2>
 
 <p align="left">
 <a href="https://twitter.com/@carlitosreyes_rfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@carlitosreyes_rfa" height="30" width="40" /></a>

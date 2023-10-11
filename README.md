@@ -47,13 +47,13 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="javascript"  width="120" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg" alt="javascript"  width="120" hight="50">
 </br>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg" alt="visualstudio_code" width="270" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" alt="visualstudio_code" width="270" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg" alt="google_cloud_platform" width="120" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg" alt="visualstudio_code" width="120" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" alt="visualstudio_code" width="120" hight="50">
 </br>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/datascience.svg" alt="pc" width="150" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_pycharm.svg" alt="edge" width="150" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_webstorm.svg" alt="playstation" width="150" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/datascience.svg" alt="pc" width="120" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_pycharm.svg" alt="edge" width="120" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_webstorm.svg" alt="playstation" width="120" hight="50">
 </p>
 </br>
 </br>

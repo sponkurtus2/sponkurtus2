@@ -51,36 +51,17 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://media.tenor.com/MyPnF_oV1YAAAAAi/chika-thumbs-up.gif">
+<img hight="280" width="450" align="right" alt="GIF" src="https://media.tenor.com/MyPnF_oV1YAAAAAi/chika-thumbs-up.gif">
 
 If you would like to ask me or tell me something, go on and hit me up ;).
 
-<a href="https://www.instagram.com/carlitos_04r.rb/">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/instagram.svg" />
-</a>
-
-</br>
-</br>
-
-<a href="https://steamcommunity.com/profiles/76561198422616837/">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/steam.svg" />
-</a>
-
-</br>
-</br>
+<p align="left">
+<a href="https://twitter.com/@carlitosreyes_rfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@carlitosreyes_rfa" height="30" width="40" /></a>
+<a href="https://www.facebook.com/drake.junior.336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carlos reyes" height="30" width="40" /></a>
+<a href="https://instagram.com/carlitos_04r.rb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlitos_04r.rb" height="30" width="40" /></a>
+</p>
 
 
-<a href="https://twitter.com/CarlitosReyes_R">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" />
-</a>
-
-</br>
-</br>
-
-
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
 
 </p>
  
@@ -97,7 +78,7 @@ If you would like to ask me or tell me something, go on and hit me up ;).
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sponkurtus2&show_icons=true&locale=en&layout=compact" alt="sponkurtus2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sponkurtus2&show_icons=true&theme=onedark&locale=en" alt="sponkurtus2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sponkurtus2&show_icons=true&theme=tokyonight&locale=en" alt="sponkurtus2" /></p>
 
 
 *************

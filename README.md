@@ -37,7 +37,7 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages & Tools 🛠:
 </br>
 
 <h3 align="left">Languages and Tools:</h3>

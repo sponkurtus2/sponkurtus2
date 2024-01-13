@@ -1,4 +1,4 @@
-# Hey! 👋
+# Hey! ^^
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif">

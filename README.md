@@ -10,31 +10,23 @@ I like reading, listening to music, and drinking matcha 💚.
 <h3>This is me...</h3>
 
  ```Java
- class Sy < Person
-   def initialize
-     @name = 'Sy Rashid'
-     @age = 31
-     @work = [ 'MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon' ]
-     @education = [ 'Georgia Tech BS', 'HBX/HBS' 'Le Wagon', 'Georgia Tech MS' ]
-     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
-   end
+ class Me {
+  String name = "Carlos";
+  int age = 19;
+  String[] hobbies = { "Coding", "Reading", "Coffe shops", "Sushi" };
+  boolean happy = true;
 
-   def current_location
-     'Burke, VA, USA'
-   end
+  public String current_location() {
+    return "México";
+  }
 
-   def next_locations
-     ['Lisbon, PT', 'Barcelona, ESP']
-   end
+  public void currently() {
+    String[] studying = { "Java", "React native" };
+    String[] reading = { "¿Por dónde se sale?", "Oyasumi Punpun" };
+    String[] doing = { "Probably listening to music", "Eating", "Doing my duolingo streak" };
+  }
 
-   def currently
-     {
-       studying: [ 'Network Security' ],
-       reading: [ 'Rails AntiPatterns', 'Deep Work' ],
-       tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
-      }
-   end
- end
+}
  ```
  
 <br>

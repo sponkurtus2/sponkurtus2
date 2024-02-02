@@ -33,7 +33,7 @@ I like reading, listening to music, and drinking matcha 💚.
 
 ### What I always play with
 <p> 
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
+  <img src="[https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png](https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=4&origin=search&related_id=226777)" alt="html-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">

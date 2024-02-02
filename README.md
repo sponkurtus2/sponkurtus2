@@ -31,7 +31,7 @@ I like reading, listening to music, and drinking matcha 💚.
  
 <br>
 
-### What I always play with
+### My most used tools
 <p> 
   <img src="assets/java.png" alt="java-logo">
   <img src="assets/js.png" alt="js-logo">

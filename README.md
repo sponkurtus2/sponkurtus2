@@ -33,11 +33,9 @@ I like reading, listening to music, and drinking matcha 💚.
 
 ### What I always play with
 <p> 
-  <img src="[https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png](https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=4&origin=search&related_id=226777)" alt="html-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/ruby_nrq1jy.png" alt="ruby-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850690/rails_1_vess2v.png" alt="rails-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/figma_ugopbh.png" alt="figma-logo">
+  <img src="assets/java.png" alt="java-logo">
+  <img src="assets/js.png" alt="js-logo">
+  <img src="assets/linux.png" alt="linux-logo">
+  <img src="assets/mysql.png" alt="mysql-logo">
+  <img src="assets/python.png" alt="python-logo">
 </p>

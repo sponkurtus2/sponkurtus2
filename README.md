@@ -7,12 +7,6 @@ I'm a currently studying to be a Software Engineer. Right now i'm learning Java,
 I like reading, listening to music, and drinking matcha 💚.
 </p>
 
-<div align="center">
-  ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcarlos-reyes-32a096254%2F?style=for-the-badge&label=Linkedin)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CodeWhiteWeb) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodeWhiteWeb) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/code_white_web) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/CodeWhiteWeb) 
-</div>
-<br>
-
 <h3>This is me...</h3>
 
  ```Java

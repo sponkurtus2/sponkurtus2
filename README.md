@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Sy Carlos</h1>
+<h1 align="center">👋 Hello! I'm Carlos</h1>
 
 <p align="center">   
 I'm a currently studying to be a Software Engineer. Right now i'm learning Java, and my dream is to live a peacefull life working in tech.
@@ -9,6 +9,7 @@ I like reading, listening to music, and drinking matcha 💚.
 
 <div align="center">
   ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcarlos-reyes-32a096254%2F?style=for-the-badge&label=Linkedin)
+
 </div>
 <br>
 

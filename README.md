@@ -18,7 +18,7 @@ I like reading, listening to music, and drinking matcha 💚.
 
 <h3>This is me...</h3>
 
- ```java
+ ```Java
  class Sy < Person
    def initialize
      @name = 'Sy Rashid'

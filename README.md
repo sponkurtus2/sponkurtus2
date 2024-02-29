@@ -68,5 +68,5 @@ int main() {
   <img src="assets/linux.png" alt="linux-logo">
   <img src="assets/mysql.png" alt="mysql-logo">
   <img src="assets/python.png" alt="python-logo">
-  <img src="assets/c.png" alt="c-logo" style="height: 32px; width: 32px">
+  <img src="assets/c.png" alt="c-logo" style="height: 64px; width: 64px">
 </p>

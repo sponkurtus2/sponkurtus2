@@ -61,7 +61,7 @@ int main() {
  
 <br>
 
-### My most used tools
+### My most used tools :D
 <p> 
   <img src="assets/java.png" alt="java-logo">
   <img src="assets/js.png" alt="js-logo">

@@ -9,24 +9,54 @@ I like reading, listening to music, and drinking matcha 💚.
 
 <h3>This is me...</h3>
 
- ```Java
- class Me {
-  String name = "Carlos";
+ ```c
+ #include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+struct Me {
+  char *name;
+  int age;
+  char *hobbies[4];
+  bool happy;
+  char *location;
+};
+
+struct Me *meSetUp() {
+  char *name = "Carlos Reyes";
   int age = 19;
-  String[] hobbies = { "Coding", "Reading", "Coffe shops", "Sushi" };
-  boolean happy = true;
+  char *hobbies[4] = {"Coding", "Reading", "Coffe shops", "Sushi"};
+  bool happy = true;
+  char *location = "México";
 
-  public String current_location() {
-    return "México";
+  struct Me *Carlos = malloc(sizeof(struct Me));
+  Carlos->name = name;
+  Carlos->age = age;
+  for (int i = 0; i < 4; i++) {
+    Carlos->hobbies[i] = hobbies[i];
   }
+  Carlos->happy = happy;
+  Carlos->location = location;
 
-  public void currently() {
-    String[] studying = { "Java", "React native" };
-    String[] reading = { "¿Por dónde se sale?", "Oyasumi Punpun" };
-    String[] doing = { "Probably listening to music", "Eating", "Doing my duolingo streak" };
-  }
-
+  return Carlos;
 }
+
+void currentlyDoing() {
+  char *studying[] = {"C", "Data structures", "web", "Java"};
+  char *reading[] = {"¿Por dónde se sale?", "Data structures in C"};
+  char *doing[] = {"Probably listening to music", "Eating",
+                   "Doing my duolingo streak"};
+}
+
+int main() {
+  struct Me *myInfo = meSetUp();
+  printf("My name is ^^ %s\n", myInfo->name);
+
+  free(myInfo);
+
+  return 0;
+}
+
  ```
  
 <br>

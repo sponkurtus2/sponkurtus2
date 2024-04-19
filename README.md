@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Carlos</h1>
 
 <p align="center">   
-I'm a currently studying to be a Software Engineer. Right now i'm learning Java and Golang. My my dream is to live a peacefull life working in tech.
+I'm a currently studying to be a Software Engineer. Right now i'm learning Java and Golang. My dream is to live a peacefull life working in tech.
 </p>
 <p align="center">
 I like reading, listening to music, and drinking matcha 💚.

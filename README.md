@@ -7,6 +7,12 @@ I'm a currently studying to be a Software Engineer. Right now i'm learning Java.
 I like reading, listening to music, and drinking matcha 💚.
 </p>
 
+<p align="center">
+<i>
+"sometimes we all need to "sudo pacman -Syu"
+</i>
+</p>
+
 <h3>This is me...</h3>
 
  ```Java

@@ -15,26 +15,44 @@ I like reading, listening to music, and drinking matcha 💚.
 
 <h3>This is me...</h3>
 
- ```Java
-public class readme {
-
-    public String name;
-    public String[] hobbies;
-    public boolean happy;
-    private String location;
-
-    public readme() {
-        this.name = "Carlos";
-        this.hobbies = new String[]{"Coding", "Reading", "Writing", "Music", "Hang out"};
-        this.happy = true;
-        this.location = "Chihuahua, Mx.";
-    }
-
-    public void currentlyDoing() {
-        System.out.println("Right now, im either with someone I love, or being a Mr Robot and doing some code.");
-    }
-
+ ```Rust
+struct Carlinux {
+    name: String,
+    hobbies: Vec<String>,
+    happy: bool,
+    location: String,
 }
+
+impl Carlinux {
+    fn currently_doing() {
+        println!("Living the moment ^^");
+    }
+
+    fn name(&mut self) {
+        self.name = "Carlos".to_string();
+    }
+
+    fn hobbies(&mut self) {
+        let hobbies: Vec<String> = vec![
+            "Programming".to_string(),
+            "Excercise".to_string(),
+            "Walking".to_string(),
+            "Playing".to_string(),
+            "Reading".to_string(),
+            "Writing".to_string(),
+        ];
+        self.hobbies = hobbies;
+    }
+
+    fn happy(&mut self) {
+        self.happy = true;
+    }
+
+    fn location(&mut self) {
+        self.location = "México".to_string();
+    }
+}
+
  ```
  
 ### Top Skills ^^

@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hello! I'm Carlos</h1>
+<h1 align="center">👋 Hello! I'm Carlos 🐧</h1>
 
-<p align="center">   
-I'm a currently studying to be a Software Engineer. Right now i'm learning Laravel and Go. My dream is to live a peacefull life working in tech.
+<p align="center">
+ Future Software Engineer, and Linux enjoyer.
 </p>
 <p align="center">
-I like reading, music, matcha ^^.
+I like reading, music, matcha, biking and cats.
 </p>
 
 <p align="center">
@@ -12,8 +12,6 @@ I like reading, music, matcha ^^.
 "sometimes we all need to "sudo pacman -Syu"
 </i>
 </p>
-
-<h3>This is me...</h3>
 
  ```Rust
 struct Carlinux {
